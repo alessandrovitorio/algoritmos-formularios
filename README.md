@@ -176,3 +176,42 @@ Monte um **sistema de pedidos simples**:
 * Mostre o total acumulado dos valores
 
 > Use `createElement` para a lista e `innerHTML` para o total.
+---
+Perfeito 👍 entendi — você quer **somente o enunciado dos exercícios**, sem as soluções em código.
+Aqui está o conteúdo **limpo, direto para cópia**, enumerando do 6 ao 10, todos com **array e objeto**, **usando formulário e DOM**, **sem respostas**:
+
+---
+
+### 🧩 Exercício 6 — Nomes na Lista
+Crie um formulário com o campo `nome`.  
+Ao enviar, adicione o nome digitado em um array.  
+Mostre todos os nomes na tela usando `innerHTML`.
+
+---
+
+### 🧩 Exercício 7 — Soma de Números
+Crie um formulário com dois campos numéricos.  
+Ao enviar, some os dois números e exiba o resultado na página.
+
+---
+
+### 🧩 Exercício 8 — Cadastro de Pessoas
+Crie um formulário com os campos `nome` e `idade`.  
+Cada pessoa cadastrada deve ser um objeto `{ nome, idade }` guardado em um array.  
+Mostre a lista de pessoas cadastradas no HTML.
+
+---
+
+### 🧩 Exercício 9 — Produtos e Preço Total
+Crie um formulário com `produto` e `preço`.  
+Cada envio adiciona um objeto `{ produto, preco }` em um array.  
+Mostre todos os produtos cadastrados e o total somado.
+
+---
+
+### 🧩 Exercício 10 — Maior e Menor Número
+Crie um formulário com um campo numérico.  
+Cada número digitado deve ser guardado em um array.  
+Mostre na tela o **maior** e o **menor** número já digitados, **sem usar métodos prontos como `Math.max()` ou `Math.min()`**.
+
+
