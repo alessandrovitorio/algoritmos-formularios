@@ -176,9 +176,6 @@ Monte um **sistema de pedidos simples**:
 * Mostre o total acumulado dos valores
 
 > Use `createElement` para a lista e `innerHTML` para o total.
----
-Perfeito 👍 entendi — você quer **somente o enunciado dos exercícios**, sem as soluções em código.
-Aqui está o conteúdo **limpo, direto para cópia**, enumerando do 6 ao 10, todos com **array e objeto**, **usando formulário e DOM**, **sem respostas**:
 
 ---
 
